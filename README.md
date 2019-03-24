@@ -9,7 +9,12 @@ Files:
   * steps
   * date
   * interval
-* [analysis.html](http://htmlpreview.github.io/?https://github.com/dmnewman67/Reproducible-Research-Project-1/blob/master/analysis.html) 
+* [analysis.html](http://htmlpreview.github.io/?https://github.com/dmnewman67/Reproducible-Research-Project-1/blob/master/analysis.html)
+* Plots
+  * DayCompLIne.png
+  * stepDayHist.png
+  * stepIntLine.png
+  * stepTotHis.png
 
 
 Assignment
