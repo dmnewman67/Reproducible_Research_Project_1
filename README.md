@@ -3,6 +3,7 @@ Reproducible Research Project 1
 
 Files:  
 
+* analysis.R
 * analysis.rmd 
 * activity.csv
   * steps
